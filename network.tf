@@ -1,5 +1,5 @@
 data "azurerm_resource_group" "example" {
-  name     = "myresourcegroup"
+  name     = "shaoliu-workshop"
 }
 
 module "network" {
